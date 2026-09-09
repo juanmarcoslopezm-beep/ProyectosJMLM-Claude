@@ -1,0 +1,13 @@
+{
+  "name": "proyectosjmlm-claude",
+  "owner": {
+    "name": "Juan Marcos Lopez M."
+  },
+  "plugins": [
+    {
+      "name": "hello-plugin",
+      "source": "./plugins/hello-plugin",
+      "description": "Plugin de ejemplo minimo para probar el marketplace."
+    }
+  ]
+}
